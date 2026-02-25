@@ -12,6 +12,9 @@ In this lab you've learned the basics of number theory as it relates to addition
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
+## Summary
+In this lab we created a half adder and a full adder and showed how you chain adders together in order to add multi-bit numbers.
+
 ## Lab Questions
 
 ### 1 - How might you add more than two bits together?
